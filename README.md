@@ -20,8 +20,10 @@ SVM was chosen because of its effectiveness in finding the "Optimal Hyperplane" 
 **Hyperparameter Tuning**: Optimized the C hyperparameter 1. This "Soft Margin" approach improved the model's ability to generalize to new, unseen patient data by prioritizing a wider decision boundary over perfect memorization of training noise.
 
 **Evaluation Strategy**: Beyond simple accuracy, the model was evaluated using:
-                         **5-Fold Cross-Validation**: To ensure stability across different data distributions.
-                         **Confusion Matrix Analysis**: Specifically monitoring False Negatives to evaluate clinical safety.
+
+**5-Fold Cross-Validation**: To ensure stability across different data distributions.
+                         
+**Confusion Matrix Analysis**: Specifically monitoring False Negatives to evaluate clinical safety.
 
 **Results and Impact**:
 
