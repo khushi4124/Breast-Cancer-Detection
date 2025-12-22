@@ -38,3 +38,6 @@ The optimized SVM model achieved a Mean Cross-Validation Accuracy of 97.19%, wit
 **False Positives**: 0 (Zero healthy patients were misdiagnosed)
 
 **False Negatives**: 1 (Only one case of cancer was missed)
+
+<img width="640" height="547" alt="image" src="https://github.com/user-attachments/assets/94d53959-98b6-4480-98ba-7e0c392c10d4" />
+
